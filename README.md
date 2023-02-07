@@ -143,6 +143,10 @@ Current screenshots have been done on Chrome 56 or more.
 No cross browsers
 You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
 
+finall product should be as follows
+![image](https://camo.githubusercontent.com/d21799d44f5d8839a1716dba0d9e16ebd5b4a1dd9609478e8690e6db9163cfe5/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6869676865722d6c6576656c5f70726f6772616d6d696e672b2f3330392f68626e625f325f302e6a7067)
+![image](https://camo.githubusercontent.com/ddf532ea65ccbe7c1a8c70b515e045bb105772422160ce128edaf0e6bb78df6d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6869676865722d6c6576656c5f70726f6772616d6d696e672b2f3330392f68626e625f315f322e6a7067)
+
 ## Authors
 
 * ** christian ng'ang'a** - Github: [themathecs](https://github.com/themathematcs) 
