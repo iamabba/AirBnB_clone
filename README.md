@@ -145,5 +145,5 @@ You have to follow all requirements but some margin/padding are missing - you sh
 
 ## Authors
 
-* ** chrizng'ang'a69@gmail.com ** - Github: [thematcs](https://github.com/themathematcs) 
+* ** chrizng'ang'a69@gmail.com ** - Github: [themathecs](https://github.com/themathematcs) 
 * ** Ahmed Abba Musa ** - Github: [iamabaa](https://github.com/iamabaa) 
