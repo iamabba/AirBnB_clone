@@ -1,13 +1,12 @@
 #!/usr/bin/python3
-"""
-importing basemodel 
-"""
+"""Defines the Amenity class."""
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Custom amenity class
+    """Represent an amenity.
     Attributes:
-        name(str): amenity name
+        name (str): The name of the amenity.
     """
+
     name = ""
